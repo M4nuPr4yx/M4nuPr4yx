@@ -36,6 +36,8 @@ Atuar como um desenvolvedor de sistemas na área de BackEnd e apoior na inovaç�
 * Ética na Inteligência Artificial - Senai
 * Fluência - Fundamentos da Inteligência Artifical - Senai
 * Microsoft Azure (Az900) - Senai
+* Desvendando a Carbonização - Senai
+* Por dentro da Segurança Cibernética - Senai
 ---
 
 ### Conhecimento Sobre Bibliotecas de Linguagens
@@ -44,6 +46,7 @@ Atuar como um desenvolvedor de sistemas na área de BackEnd e apoior na inovaç�
 * Tkinter - Python
 * Figlet - JavaScript
 * Hours - JavaScript
+* Express - JavaScript
 ---
 ### Práticas Com Redes, Hardware, Cloud
 
@@ -58,6 +61,10 @@ Atuar como um desenvolvedor de sistemas na área de BackEnd e apoior na inovaç�
 * Levantamento de Requisitos
 * Sistemas Operacionais
 * Arquitetura de Rede com IoT
+* Backend (aprendendo)
+* Linguagem de Marcação (aprendendo)
+* Banco de Dados (aprendendo)
+* Projeto de Software (aprendendo)
 
 ### Qualidades
 
