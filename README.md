@@ -82,3 +82,7 @@ Atuar como um desenvolvedor de sistemas na área de BackEnd e apoior na inovaç�
 * Esportes
 * Assistir séries/filmes/documentários.
 
+### Projetos
+- [CiberGuardiões1.pdf](./CiberGuardiões1.pdf)
+- [EcoSapiens1.pdf](./EcoSapiens1.pdf)
+
