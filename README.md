@@ -85,12 +85,3 @@ Atuar como um desenvolvedor de sistemas na área de BackEnd e apoior na inovaç�
 ### Projetos
 - [CiberGuardiões1.pdf](./CiberGuardiões1.pdf)
 - [EcoSapiens1.pdf](./EcoSapiens1.pdf)
-
-<<<<<<< HEAD
-### Projetos
-- [CiberGuardiões1.pdf](./CiberGuardiões1.pdf)
-- [EcoSapiens1.pdf](./EcoSapiens1.pdf)
-
-=======
-
->>>>>>> a11424fb824cc7d25cbd6dc399c2b85c38d316a4
