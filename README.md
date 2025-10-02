@@ -66,6 +66,17 @@ Atuar como um desenvolvedor de sistemas na área de BackEnd e apoior na inovaç�
 * Banco de Dados (aprendendo)
 * Projeto de Software (aprendendo)
 
+### Ferramentas e Linguagens utilizadas
+
+* Node.js
+* JavaScript
+* CSS
+* HTML
+* Python
+* JSON
+* Markdown
+* SQL
+
 ### Qualidades
 
 * Rápida Adaptação as Novas Tecnologias
